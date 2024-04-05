@@ -1,0 +1,3 @@
+Jahangir works in a computer company. Jahangir is going to write a program to determine if it is possible to find AB and BA in another field without knowing if they overlap? The order of AB and BA does not matter. For example, if the input is ABBA, the answer is YES. If the input is BAAB, the answer is YES. But if the input is ABA, the answer is NO, or if the input is ABHA, the answer is NO. Can you help Jahangir to write this program?
+
+Please print YES and NO exactly like this in capital letters in the output.

@@ -1,0 +1,27 @@
+Mehdi is sending the final list of names of the participants in the closing ceremony of Fajr to the executive committee so that they can print the entry cards. But there is a problem. During the registration, the participants did not write their names in the standard way. Standard means that the first letter of the name should be capitalized and the rest of the letters of the name should be lowercase. Write a program that reads 10 nouns from the input and prints their standardized form in the output.
+
+Sample input:
+
+BaHram
+MaHnaZ
+hooman
+FaribORZ
+barAn
+HedieH
+Ali
+EZATOLLAH
+MOHAMADALI
+JAMSHID
+
+Sample output:
+
+Bahram
+Mahnaz
+Hooman
+Fariborz
+Baran
+Hedieh
+Ali
+Ezatollah
+Mohammadali
+Jamshid
